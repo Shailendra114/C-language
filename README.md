@@ -1,2 +1,2 @@
 # C-language
-This repositary is about the materials that i have followed to learn c
+This repositary is about the materials that i have followed to learn c.
