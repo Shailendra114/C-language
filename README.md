@@ -18,3 +18,15 @@ Easy to learn
 * It can handle low-level activities
 
 * It can be compiled on a variety of computer platforms
+# Facts about C:-
+* was invented to write an operating system called UNIX.
+
+*  a successor of B language which was introduced around the early 1970s.
+
+* anguage was formalized in 1988 by the American National Standard Institute (ANSI).
+
+* e UNIX OS was totally written in C.
+
+* day C is the most widely used and popular System Programming Language.
+
+* st of the state-of-the-art software have been implemented using C.
