@@ -66,3 +66,4 @@ C was initially used for system development work, particularly the programs that
 
 * Utilities
 # Audience:-
+This tutorial is designed for software programmers with a need to understand the C programming language starting from scratch. This C tutorial will give you enough understanding on C programming language from where you can take yourself to higher level of expertise.
