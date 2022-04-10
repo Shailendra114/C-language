@@ -37,10 +37,14 @@ Just to give you a little excitement about C programming, I'm going to give you 
 #include <stdio.h>
 
 int main() {
+
    /* my first program in C */
+   
    printf("Hello, World! \n");
    
+   
    return 0;
+   
 }
 # Applications of C Programming:-
 C was initially used for system development work, particularly the programs that make-up the operating system. C was adopted as a system development language because it produces code that runs nearly as fast as the code written in assembly language. Some examples of the use of C are -
