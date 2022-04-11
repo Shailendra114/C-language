@@ -23,7 +23,7 @@ Easy to learn
 
 * It is a successor of B language which was introduced around the early 1970s.
 
-* anguage was formalized in 1988 by the American National Standard Institute (ANSI).
+* This language was formalized in 1988 by the American National Standard Institute (ANSI).
 
 * e UNIX OS was totally written in C.
 
