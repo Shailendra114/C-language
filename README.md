@@ -27,7 +27,7 @@ Easy to learn
 
 * The UNIX OS was totally written in C.
 
-* day C is the most widely used and popular System Programming Language.
+* Today C is the most widely used and popular System Programming Language.
 
 * st of the state-of-the-art software have been implemented using C.
 # Hello World using C Programming:-
