@@ -29,7 +29,7 @@ Easy to learn
 
 * Today C is the most widely used and popular System Programming Language.
 
-* st of the state-of-the-art software have been implemented using C.
+* Most of the state-of-the-art software have been implemented using C.
 # Hello World using C Programming:-
 Just to give you a little excitement about C programming, I'm going to give you a small conventional C Programming Hello World program, You can try it using Demo link.
 
