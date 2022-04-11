@@ -25,7 +25,7 @@ Easy to learn
 
 * This language was formalized in 1988 by the American National Standard Institute (ANSI).
 
-* e UNIX OS was totally written in C.
+* The UNIX OS was totally written in C.
 
 * day C is the most widely used and popular System Programming Language.
 
