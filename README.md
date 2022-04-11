@@ -19,7 +19,7 @@ Easy to learn
 
 * It can be compiled on a variety of computer platforms
 # Facts about C:-
-* was invented to write an operating system called UNIX.
+* It was invented to write an operating system called UNIX.
 
 *  a successor of B language which was introduced around the early 1970s.
 
