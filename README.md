@@ -23,7 +23,7 @@ Easy to learn
 
 * C is a successor of B language which was introduced around the early 1970s.
 
-* This language was formalized in 1988 by the American National Standard Institute (ANSI).
+* This language C was formalized in 1988 by the American National Standard Institute (ANSI).
 
 * The UNIX OS was totally written in C.
 
