@@ -21,7 +21,7 @@ Easy to learn
 # Facts about C:-
 * C was invented to write an operating system called UNIX.
 
-* It is a successor of B language which was introduced around the early 1970s.
+* C is a successor of B language which was introduced around the early 1970s.
 
 * This language was formalized in 1988 by the American National Standard Institute (ANSI).
 
