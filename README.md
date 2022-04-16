@@ -1,5 +1,5 @@
 # C-language:--
-This repositary is the collection of materials that i have followed to learn c.
+This repositary is the collection of materials that i have followed to learn C.
 # Introduction:-
 
 ![image](https://user-images.githubusercontent.com/88799249/161821311-271b2083-a3ba-41f9-9c04-929457834b20.png)
