@@ -1,4 +1,4 @@
-# C-language:------
+# C-language:-------
 This repositary is the collection of materials that i have followed to learn 'C'.
 # Introduction:-
 
