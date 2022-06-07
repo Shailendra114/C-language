@@ -18,7 +18,7 @@ Easy to learn
 * It can handle low-level activities
 
 * It can be compiled on a variety of computer platforms
-# Facts about C:-
+# Facts about C :-
 * C was invented to write an operating system called UNIX.
 
 * C is a successor of B language which was introduced around the early 1970s.
