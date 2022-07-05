@@ -1,4 +1,4 @@
-# C-Programming language :--
+# C-Programming language :---
 This repositary is the collection of materials that i have followed to learn 'C-language'.
 # Introduction:-
 
